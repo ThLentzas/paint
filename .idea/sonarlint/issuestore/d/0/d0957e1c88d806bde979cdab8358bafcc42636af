@@ -1,0 +1,180 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ÙŸÔV
+K
+java:S3740„"/Provide the parametrized type for this generic.(„¶‚úÿÿÿÿ
+Œ
+java:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­¼¶÷ûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+k
+java:S2095™"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ê í¢øÿÿÿÿ
+e
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÙŸÔV
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼„›´
+l
+java:S1149„"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„¶‚úÿÿÿÿ
+n
+java:S3776<"SRefactor this method to reduce its Cognitive Complexity from 162 to the 15 allowed.(®î’×üÿÿÿÿ
+T
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(¾ßò«
+]
+java:S6201\"BReplace this instanceof check and cast with 'instanceof Line line'(¨Ç›€úÿÿÿÿ
+]
+java:S6201c"BReplace this instanceof check and cast with 'instanceof Oval oval'(©øøüÿÿÿÿ
+]
+java:S6201c"BReplace this instanceof check and cast with 'instanceof Oval oval'(©øøüÿÿÿÿ
+a
+java:S6201k"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(¢ß
+a
+java:S6201k"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(¢ß
+\
+java:S6201s"FReplace this instanceof check and cast with 'instanceof Square square'(«ğ¾Å
+\
+java:S6201s"FReplace this instanceof check and cast with 'instanceof Square square'(«ğ¾Å
+\
+java:S6201{"FReplace this instanceof check and cast with 'instanceof Circle circle'(ÈÅ
+\
+java:S6201{"FReplace this instanceof check and cast with 'instanceof Circle circle'(ÈÅ
+f
+java:S6201ƒ"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(Üµóçúÿÿÿÿ
+f
+java:S6201ƒ"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(Üµóçúÿÿÿÿ
+k
+java:S6201‹"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(©¬›ç
+k
+java:S6201‹"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(©¬›ç
+p
+java:S6201“"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(Ş‰«ßşÿÿÿÿ
+p
+java:S6201“"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(Ş‰«ßşÿÿÿÿ
+^
+java:S6201›"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(ûîë=
+^
+java:S6201›"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(ûîë=
+d
+java:S6201£"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(ÇÓÂ•ûÿÿÿÿ
+d
+java:S6201£"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(ÇÓÂ•ûÿÿÿÿ
+^
+java:S6201«"BReplace this instanceof check and cast with 'instanceof Line line'(¨Ç›€úÿÿÿÿ
+^
+java:S6201®"BReplace this instanceof check and cast with 'instanceof Oval oval'(©øøüÿÿÿÿ
+^
+java:S6201®"BReplace this instanceof check and cast with 'instanceof Oval oval'(©øøüÿÿÿÿ
+b
+java:S6201¶"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(¢ß
+b
+java:S6201¶"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(¢ß
+]
+java:S6201¾"FReplace this instanceof check and cast with 'instanceof Square square'(«ğ¾Å
+]
+java:S6201¾"FReplace this instanceof check and cast with 'instanceof Square square'(«ğ¾Å
+]
+java:S6201Æ"FReplace this instanceof check and cast with 'instanceof Circle circle'(ÈÅ
+]
+java:S6201Æ"FReplace this instanceof check and cast with 'instanceof Circle circle'(ÈÅ
+f
+java:S6201Î"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(Üµóçúÿÿÿÿ
+f
+java:S6201Î"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(Üµóçúÿÿÿÿ
+k
+java:S6201Ö"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(©¬›ç
+k
+java:S6201Ö"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(©¬›ç
+p
+java:S6201Ş"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(Ş‰«ßşÿÿÿÿ
+p
+java:S6201Ş"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(Ş‰«ßşÿÿÿÿ
+^
+java:S6201æ"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(ûîë=
+^
+java:S6201æ"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(ûîë=
+d
+java:S6201î"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(ÇÓÂ•ûÿÿÿÿ
+d
+java:S6201î"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(ÇÓÂ•ûÿÿÿÿ
+_
+java:S6201ö"HReplace this instanceof check and cast with 'instanceof Hexagon hexagon'(ˆÄØÂ
+_
+java:S6201ö"HReplace this instanceof check and cast with 'instanceof Hexagon hexagon'(ˆÄØÂ
+^
+java:S6201ş"BReplace this instanceof check and cast with 'instanceof Star star'(—ƒŠ¼ùÿÿÿÿ
+^
+java:S6201ş"BReplace this instanceof check and cast with 'instanceof Star star'(—ƒŠ¼ùÿÿÿÿ
+Y
+java:S6201’"BReplace this instanceof check and cast with 'instanceof Line line'(Ì´
+^
+java:S6201™"BReplace this instanceof check and cast with 'instanceof Oval oval'(ÂŞÆÍşÿÿÿÿ
+^
+java:S6201™"BReplace this instanceof check and cast with 'instanceof Oval oval'(ÂŞÆÍşÿÿÿÿ
+c
+java:S6201¡"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(éùÃÊ
+c
+java:S6201¡"LReplace this instanceof check and cast with 'instanceof Rectangle rectangle'(éùÃÊ
+]
+java:S6201©"FReplace this instanceof check and cast with 'instanceof Square square'(‹æ–ª
+]
+java:S6201©"FReplace this instanceof check and cast with 'instanceof Square square'(‹æ–ª
+]
+java:S6201±"FReplace this instanceof check and cast with 'instanceof Circle circle'(øÜìØ
+]
+java:S6201±"FReplace this instanceof check and cast with 'instanceof Circle circle'(øÜìØ
+f
+java:S6201¹"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(áóïÄúÿÿÿÿ
+f
+java:S6201¹"JReplace this instanceof check and cast with 'instanceof Triangle triangle'(áóïÄúÿÿÿÿ
+k
+java:S6201Á"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(ûúæ‹
+k
+java:S6201Á"TReplace this instanceof check and cast with 'instanceof RightTriangle righttriangle'(ûúæ‹
+p
+java:S6201É"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(ØŸÕ¹ûÿÿÿÿ
+p
+java:S6201É"TReplace this instanceof check and cast with 'instanceof Parallelogram parallelogram'(ØŸÕ¹ûÿÿÿÿ
+^
+java:S6201Ñ"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(×ÜÙ1
+^
+java:S6201Ñ"HReplace this instanceof check and cast with 'instanceof Rhombus rhombus'(×ÜÙ1
+d
+java:S6201Ù"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(œ¤ò‰ÿÿÿÿÿ
+d
+java:S6201Ù"HReplace this instanceof check and cast with 'instanceof Polygon polygon'(œ¤ò‰ÿÿÿÿÿ
+_
+java:S6201á"HReplace this instanceof check and cast with 'instanceof Hexagon hexagon'(¤ë×Ë
+_
+java:S6201á"HReplace this instanceof check and cast with 'instanceof Hexagon hexagon'(¤ë×Ë
+Y
+java:S6201é"BReplace this instanceof check and cast with 'instanceof Star star'(»Öô¬
+Y
+java:S6201é"BReplace this instanceof check and cast with 'instanceof Star star'(»Öô¬
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(®—ËF
+U
+java:S1155¿">Use isEmpty() to check whether the collection is empty or not.(¾ßò«
+U
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(ÌøĞ»
+U
+java:S1155í">Use isEmpty() to check whether the collection is empty or not.(¾ßò«
+U
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(ÁÄÀ³
+W	java:S125“"<This block of commented-out lines of code should be removed.(ç¸—…şÿÿÿÿ
+i
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÈÊ“À
+U
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(¾ßò«
+U
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(©üÜ
+U
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(©üÜ
+Z
+java:S1155Ö">Use isEmpty() to check whether the collection is empty or not.(ƒÎªÈıÿÿÿÿ
+K
+java:S1068"5Remove this unused "startingCopyPoint" private field.(ü‹’
+H
+java:S1068*"-Remove this unused "tmpAction" private field.(İ‡¢§üÿÿÿÿ
+â
+java:S6541<"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 319 to 64, Complexity from 48 to 14, Nesting Level from 4 to 2, Number of Variables from 10 to 6.(®î’×üÿÿÿÿ
+İ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 28 to 14, Nesting Level from 4 to 2, Number of Variables from 19 to 6.(®—ËF
